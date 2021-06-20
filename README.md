@@ -1,6 +1,6 @@
 # Hi, I'm Fumaz! ✨
 **Here's some info...**<br>
-📆 Age: 16yo<br>
+📆 Age: 17yo<br>
 🗺 Location: Italy<br>
 📚 Career: Developer & Student<br>
 📝 Languages: Java/Kotlin, Python, JS, C++, GoLang<br>
